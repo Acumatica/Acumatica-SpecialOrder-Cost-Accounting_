@@ -20,11 +20,7 @@ Functionality included in this extension:
 * Validates deleting purchase order line or entire order if linked with Sales/Service order
 * Reference link to open Sales/Service order is added for linked purchase order.
 
-### Prerequisites
-* Acumatica 2020 R1 (20.103.0019 or higher) 
-* Acumatica 2020 R2 (20.213.0026 or higher) 
-* Acumatica 2021 R2 (21.217.0035 or higher) 
-* Acumatica 2023 R2 (23.212.0024 or higher) 
+### Prerequisites | Supported Versions & Builds ##
 * Acumatica 2024 R2 (24.208.0020 or higher)
 * Acumatica 2025 R2 (25.200.0248 or higher) 
   

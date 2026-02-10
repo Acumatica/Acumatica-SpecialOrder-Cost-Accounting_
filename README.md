@@ -4,8 +4,8 @@ Extension that enables tracking and using of actual Inventory Costs that are spe
 ==================================
 > [!IMPORTANT]
 >
-> To request this customization package, contact Acumatica customization team by submitting a [New Customization Request Case](https://portal.acumatica.com/Main?ScreenId=SP203006).
-> Assistance with setup, training, troubleshooting issues with this customization requires annual customization maintenance plan. 
+> To request this customization package or upgrade, contact Acumatica customization team by submitting a [New Customization Request Case](https://portal.acumatica.com/Main?ScreenId=SP203006).
+> Assistance with getting upgraded customization package, setup, training, troubleshooting issues with this customization requires annual customization maintenance plan. 
 > 
 
 This extension enables the system to use a specific Purchase Cost for Special Order items that flows through to Inventory and Financial documents as a Cost of Goods Sold, providing a more precise profitability calculation for the Sales/Service Order.

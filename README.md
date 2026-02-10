@@ -84,4 +84,3 @@ None at the moment
 
 Copyright © `2020` `Acumatica, INC`
 
-This component is licensed under the MIT License, a copy of which is available online [here](LICENSE)
